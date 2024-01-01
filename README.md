@@ -1,0 +1,2 @@
+# rctu.github.io
+hugo
